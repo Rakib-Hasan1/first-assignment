@@ -376,3 +376,139 @@ li {
 }
 
 /* section 9 styles */
+
+
+.section-9{
+    margin: 80px 160px 0 160px;
+    text-align: center;
+}
+
+.section-9-heading{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.section-9-description{
+    color: #4e4b4b;
+    padding: 0 50px 0 50px;
+}
+
+
+/* section 10 styles */
+
+.section-10{
+    margin: 50px 160px 0 160px;
+    
+}
+
+.donate-container{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.donate-btn{
+    box-shadow: 0 10px 20px rgb(221, 220, 220);
+    background-color: white;
+    padding: 40px 70px;
+    border: none;
+    border-radius: 16px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.donate-input-container{
+margin: 40px 160px 0 160px;
+display: flex;
+flex-direction: column;
+}
+
+.donate-box{
+    box-shadow: 0 10px 20px rgb(221, 220, 220);
+    padding: 20px 40px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    border: none;
+}
+
+
+.donate-btns{
+    background-color: #006A50;
+    margin: 30px 550px 0 550px;
+    padding: 17px 34px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Fira Sans';
+    justify-content: center;
+    align-items: center;
+}
+
+.one{
+    background-color: #C6E4D6;
+}
+
+
+/* section 11 styles */
+
+
+.section-11{
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 50px;
+    margin: 100px 160px 100px 160px;
+    border-radius: 24px;
+}
+
+.heading-11{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.description-11{
+    color: #4e4b4b;
+}
+
+.email-box{
+    padding: 18px 70px;
+    border: none;
+    margin-right: 0;
+}
+
+.email-btn{
+    background-color: #006A50;
+    padding: 16px 40px;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Fira Sans';
+   margin: 0;
+}
+
+.email-box{
+    margin: 0;
+    border-radius: 8px 0 0 8px;
+  
+}
+
+.container-11{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+footer{
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgb(221, 220, 220);
+    padding: 50px;
+    
+}
+
